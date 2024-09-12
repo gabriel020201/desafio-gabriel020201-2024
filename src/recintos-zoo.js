@@ -75,4 +75,4 @@ class RecintosZoo {
     }
 }
 
-export { RecintosZoo };
+export { RecintosZoo as RecintosZoo };

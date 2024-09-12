@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1726093554010" clover="3.2.0">
-  <project timestamp="1726093554010" name="All files">
+<coverage generated="1726179035056" clover="3.2.0">
+  <project timestamp="1726179035056" name="All files">
     <metrics statements="78" coveredstatements="78" conditionals="39" coveredconditionals="34" methods="4" coveredmethods="4" elements="121" coveredelements="116" complexity="0" loc="78" ncloc="78" packages="1" files="1" classes="1"/>
     <file name="recintos-zoo.js" path="C:\Users\gabriel\Desktop\desafio-gabriel020201-2024\src\recintos-zoo.js">
       <metrics statements="78" coveredstatements="78" conditionals="39" coveredconditionals="34" methods="4" coveredmethods="4"/>
